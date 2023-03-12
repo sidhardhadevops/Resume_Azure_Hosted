@@ -1,4 +1,4 @@
-# Resume_Azure_Hosted
+# Hosting static content on Azure using Azure Storage Account,Azure DNS ,Azure CDN Profile & Rules Engine. 
 
 This is the respository for my resume challenge frontend code. 
 
