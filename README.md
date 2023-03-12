@@ -1,4 +1,4 @@
-# Hosting static content on Azure 
+# Hosting Resume as a static content website on Azure 
 
 Resources Required:
 
