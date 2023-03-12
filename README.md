@@ -1,4 +1,12 @@
-# Hosting static content on Azure using Azure Storage Account,Azure DNS ,Azure CDN Profile & Rules Engine. 
+# Hosting static content on Azure 
+
+Resources Required:
+
+1)Azure Storage Account .
+2)Azure DNS.
+3)Azure CDN Profile 
+4)Azure CDN-Rules Engine.
+5)Domain Name.
 
 This is the respository for my resume challenge frontend code. 
 
