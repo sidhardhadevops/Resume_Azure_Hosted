@@ -1,5 +1,9 @@
 # Hosting resume as a static content website on Azure 
 
+This is the respository for my resume challenge frontend code. 
+
+https://www.resumesidhardhavaddi.com/
+
 Resources Required:
 
 1)Azure Storage Account.
@@ -12,8 +16,5 @@ Resources Required:
 
 5)Domain Name.
 
-This is the respository for my resume challenge frontend code. 
-
-https://www.resumesidhardhavaddi.com/
 
 
